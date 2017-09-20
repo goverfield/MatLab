@@ -1,2 +1,2 @@
-# MatLab
-MatLab Lesson for FSU Libraries
+# Workshops
+Lesson material for workshops taught at FSU Libraries
